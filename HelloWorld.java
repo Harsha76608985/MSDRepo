@@ -6,6 +6,7 @@ public class HelloWorld{
     int b=9;
     System.out.println("MSD is back");
     System.out.println("rohith------");
+    System.out.println(b);
   }
 }
   
